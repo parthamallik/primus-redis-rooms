@@ -5,6 +5,7 @@
   "dependencies": {
     "redis": "0.9.x",
     "redis-sentinel": "0.0.x",
+    "redis-node-cluster": "*",
     "node-uuid": "~1.4.1"
   },
   "devDependencies": {
